@@ -5,3 +5,4 @@ A repository to house my code for CSCI 7000: Infectious Disease Modeling
 | Assignment Name | File Location |
 | --------------- | ------------- |
 | Homework 1 | [homeworks/hw1.ipynb](homeworks/hw1.ipynb) |
+| Homework 2 | [homeworks/hw2.ipynb](homeworks/hw2.ipynb) |
